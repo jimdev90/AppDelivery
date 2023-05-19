@@ -21,7 +21,7 @@ export const RoundedButton = ({ text, onPress } : Props) => {
 const styles = StyleSheet.create({
     roundedButton: {
         width: '100%',
-        height: 50,
+        height: 40,
         backgroundColor: MyColors.primary,
         alignItems: 'center',
         justifyContent: 'center',
